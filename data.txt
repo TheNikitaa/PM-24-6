@@ -1,0 +1,3 @@
+
+Headers: ['Money', 'Salary', 'Is_work', 'Name', 'Time'], 
+Data: [[100, 100, True, 'Alice', datetime.datetime(2024, 12, 24, 23, 36, 53, 15836)], [303, 303, False, 'Nikita', datetime.datetime(2024, 12, 24, 23, 36, 53, 15843)]]
